@@ -20,3 +20,6 @@ Parameter 1, 2, and 3 will not be used in this script, but since they are passed
 This script will take a list of all the packages within your distribution point and compare the filenames to the packages within the JSS. If there are any extra packages, it will add them into the JSS in a category called "New."
 
 **_THIS SCRIPT MUST BE RUN AS ROOT_**
+
+## Future Implimenatations
+
