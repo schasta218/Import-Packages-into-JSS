@@ -51,18 +51,18 @@
 
 
 # HARDCODED VALUES ARE SET HERE
-apiusername='packageImport'
-apipassword='jamf1234'
-jssurl='zen01.jamfcloud.com'
+apiusername=''
+apipassword=''
+jssurl=''
 # The jssurl variable must be the FQDN with the port number. For instance:
 # zen01.jamf.com:8443 (or zen01.jamfcloud.com if port number is 443)
 
 # This is the username, password, and hostname of the distribution point that we are mounting. You
 # can also use an IP address for the hostname.
-dpusername='read'
-dppassword='jamf1234'
-dphostname='172.16.77.133'
-dpsharename='DistributionPoint'
+dpusername=''
+dppassword=''
+dphostname=''
+dpsharename=''
 
 
 # CHECK TO SEE IF A VALUE WAS PASSED IN PARAMETER 4 AND, IF SO, ASSIGN TO "apiusername"
